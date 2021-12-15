@@ -1,4 +1,4 @@
-# git-intro
+# Wstęp do gita
 
 Po wykonaniu danego ćwiczenia poprzedź je znakami (*).
 Przykładowo ćwiczenie przed wykonaniem wyglądające następująco:
@@ -18,7 +18,7 @@ Zadanie 3. (\*) Zmień listę w taki sposób, aby zdania zaczynały się z wielk
 
 Zadanie 4. (\*) Zmień punkty w taki sposób aby ich treść zamiast zaczynać się od numeru ćwiczenia `N.` zaczynała się od słów `Zadanie N.`. (+)
 
-Zadanie 5. Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
+Zadanie 5. (\*) Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
 
 Zadanie 6. Zmień miejscami ćwiczenia których treść kończy się znakami `(-)` (numeracja powinna pozostać poprawna).
 
